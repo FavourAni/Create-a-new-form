@@ -1,0 +1,22 @@
+body{
+      margin: 0;
+      top: 0;
+      box-sizing: border-box;
+      height: auto;
+      font-family: sans-serif;
+}
+.container{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background-color: pink;
+}
+.uth{
+display: flex;
+height: 100%;
+width: 30%;
+padding-top: 20px;
+padding-bottom: 20px;
+background-color: white;
+}
